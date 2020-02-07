@@ -10,4 +10,3 @@ rss: atom.xml
 # Please do not use the two services at the same time.
 livere: # [data-uid] for livere.com
 disqus: # [short_name] for disqus.com
-
